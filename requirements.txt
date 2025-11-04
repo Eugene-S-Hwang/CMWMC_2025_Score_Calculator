@@ -1,5 +1,2 @@
 streamlit
-google.oauth2
-googleapiclient.discovery
-googleapiclient.errors
-google.oauth2.credentials
+google-auth
